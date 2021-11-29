@@ -1,10 +1,10 @@
-package com.example;
+package controller;
 
 /**
  * Hello world!
  *
  */
-public class App 
+public class MainProgram 
 {
     public static void main( String[] args )
     {
